@@ -1,0 +1,5 @@
+Deposit: 1000.00, Balance: 1000.00
+Withdrawal: 200.00, Balance: 800.00
+Deposit: 10000.00, Balance: 10800.00
+Withdrawal: 700.00, Balance: 10100.00
+Deposit: 1000.00, Balance: 11100.00
